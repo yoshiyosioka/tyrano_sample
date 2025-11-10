@@ -1,33 +1,35 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="桃を拾うか拾わないかおばあさん"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「ももたろう」[l][r]
 
-メロスは激怒した。[l][r]
-
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+昔々あるところに、おじいさんとおばあさんがいました。[l][r]
 
 (中略)[l][r]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
+おばあさんが川で洗濯物をしていると、川上のほうから桃が流れてきました。[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+「どんぶらこっこ、どんぶらこっこ」[l][r]
+
+[link target=*tag_musi] →怪しいので無視をする [endlink][r]
+[link target=*tag_hirou] →美味しそうなので拾う [endlink][r]
 [s]
 
-*tag_sleep
+*tag_musi
 
 [cm]
 
 [bg storage=sleep.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+桃はそのまま流れていった。[l][r]
+桃は海に流れ出ていった。[l][r]
+「どんぶらこっこ、どんぶらこっこ」[l][r]
+・・・ざぱーん　　　とある島に流れ着いた。[l][r]
+「あ゛れ゛、お゛い゛し゛そ゛う゛な゛桃だな゛ぁぁ」[l][r]
 
 【 BAD END 】[l][cm]
 
